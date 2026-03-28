@@ -1,0 +1,17 @@
+# R
+.Rhistory
+.Rdata
+.Rproj.user/
+*.Rproj
+rsconnect/
+
+# Shiny
+/renv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
